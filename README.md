@@ -1,3 +1,7 @@
+# Dashboard Preview
+
+![Dashboard Preview](power-BI/image.png)
+
 # Retail Sales Analysis Dashboard
 
 This is data analysis project using SQL and Power BI.
@@ -42,10 +46,6 @@ DASHBOARD-QUERY/
 │
 └── README.md
 ```
-
-# Dashboard Preview
-
-![Dashboard Preview](power-BI/image.png)
 
 # SQL Queries
 
