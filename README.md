@@ -45,7 +45,7 @@ DASHBOARD-QUERY/
 
 # Dashboard Preview
 
-[alt text](power-BI/image.png)
+![Dashboard Preview](power-BI/image.png)
 
 # SQL Queries
 
