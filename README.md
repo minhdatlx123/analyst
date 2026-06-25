@@ -21,32 +21,6 @@ The purpose of this project is to practice SQL querying, data analysis, and dash
 - Power BI
 - VS Code
 
-# Project Structure
-
-```
-DASHBOARD-QUERY/
-│
-├── data/
-│   ├── raw/
-│   │   └── sales_data.csv
-│   │
-│   └── query_result/
-│       ├── revenue_by_category_result.csv
-│       ├── top_5_productName_sale_result.csv
-│       └── top_state_sales_result.csv
-│
-├── power-BI/
-│   ├── image.png
-│   └── sales_dashboard.pbix
-│
-├── sql/
-│   ├── revenue_by_category.sql
-│   ├── top_state_sales.sql
-│   └── top5_productName_sales.sql
-│
-└── README.md
-```
-
 # SQL Queries
 
 ## Revenue by Category
